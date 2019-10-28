@@ -1,7 +1,4 @@
 // Date and time functions using a DS1307 RTC connected via I2C and Wire lib
-// Code based around demo in https://github.com/adafruit/RTClib/archive/master.zip
-// pushbutton code from https://arduino-info.wikispaces.com/LCD-Pushbuttons
-// Modified by Tim Blythman Decmeber 2015
 
 #include <Wire.h>
 #include "RTClib.h"
